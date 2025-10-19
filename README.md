@@ -1,16 +1,31 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./preview.jpg)
 
-## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+## Overview 
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+### Screenshots
+
+![Design preview for the QR code component coding challenge](./qr-code-destop-view)
+
+
+
+###Links 
+-Solution URL: [Github link](https://github.com/kmdcodes/qr-code-component-main.git)
+-Live Site URL: 
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
-## The challenge
+## My Process
+
+### Built with
+
+- HTML markup
+- CSS custom properties 
+- Used CSS Flex
+- Used CSS relative and absolute positioning to center the card.
+- There was no need to use te @media queries to make the site responsive as the QR code card remains the same irrespective of page size and since it has been properly centred it will main the desired mobile view
+- Font used: Outfit 
 
 Your challenge is to build out this QR code component and get it looking as close to the design as possible.
 
