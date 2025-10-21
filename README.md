@@ -6,7 +6,7 @@
 
 ### Screenshots
 
-![Design preview for the QR code component coding challenge](./qr-code-destop-view)
+![Design preview for the QR code component coding challenge](./qr-code-destop-view.png)
 
 
 

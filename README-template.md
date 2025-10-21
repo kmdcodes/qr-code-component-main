@@ -20,8 +20,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
+![Desktop view QR code component coding challenge](./qr-code-destop-view.png)
 
-![](./screenshot.jpg)
+![Mobile view of the QR code component coding challenge](./qr-code-mobile-view.jpeg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -40,14 +41,12 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Used CSS Flex
+- Used CSS relative and absolute positioning to center the card.
+- There was no need to use te @media queries to make the site responsive as the QR code card remains the same irrespective of page size and since it has been properly centred it will main the desired mobile view
+- Font used: [Outfit](https://fonts.google.com/specimen/Outfit)
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
@@ -90,14 +89,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@kmdcodes](https://www.frontendmentor.io/profile/kmdcodes)
+- Twitter - [@kmdbank](https://x.com/kmdbank)
+- Facebook - [@kmdbank](https://facebook.com/kmd4life)
 
 ## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
